@@ -1,5 +1,3 @@
-//idea reference: https://www.reddit.com/r/beginnerprojects/comments/4n9hne/project_idea_alarm_clock/
-
 import java.util.Scanner;
 
 public class Alarm_Clock
